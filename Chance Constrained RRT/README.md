@@ -15,7 +15,7 @@ The goal for this project is to search safe paths in a given map by checking for
 
 <img src= "Pseudocode_CC-RRT.JPG">
 
-## Asumptions
+## Assumptions
 
 a.Static environment (Obstacles do not move)
 
