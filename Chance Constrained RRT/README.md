@@ -13,4 +13,10 @@ The goal for this project is to search safe paths in a given map by checking for
 
 ## Pseudocode: CC-RRT
 
-<img src= "Chance Constrained RRT/Pseudocode_CC-RRT.JPG">
+<img src= "Pseudocode_CC-RRT.JPG">
+
+## Asumptions
+
+a.Static environment (Obstacles do not move)
+
+b.Model for determining uncertainty
