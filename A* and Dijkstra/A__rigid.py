@@ -3,12 +3,6 @@ from numpy import *
 from heapq import *
 import cv2
 
-# Course:  Planning for Autonomous Robots
-# Project: A* and djikstra algorithm
-# Name:    Yu-Kai Wang
-# UID:     116349802
-# Date:    04/02/2019
-
 def heuristic_opt(node, goal):
     dx = abs(node[0]-goal[0])
     dy = abs(node[1]-goal[1])
