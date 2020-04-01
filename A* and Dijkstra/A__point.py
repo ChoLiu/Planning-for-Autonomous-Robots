@@ -30,8 +30,7 @@ def userSetGoal(res):
     return goal
 
 '''Obstacle space'''
-# res = float(input('Resolution / Grid Size for the map: '))
-res = 1
+res = float(input('Resolution / Grid Size for the map: '))
 mymap = ones((int(150*res),int(250*res), 3))*255
 #  rectangle
 cv2.rectangle(mymap,(round(50*res),round(67.5*res)),(round(100*res),round(112.5*res)),(0,0,0),-1)
