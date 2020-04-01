@@ -3,9 +3,13 @@ Steps to Run Algorithms:
 1. Open the command prompt and type "cd [path address name]" to set the directory path.
 
 2. In the command prompt, type "python [codename].py" to run the desired code.
+
     $ python3 Dijkstra_point.py
+    
     $ python3 Dijkstra_rigid.py
+    
     $ python3 A*_point.py
+    
     $ python3 A*_point.py
 
 3. User Inputs:
